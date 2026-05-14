@@ -1,0 +1,8 @@
+baseURL = "https://agora.jhutty.de/"
+locale = "de"
+title = "Agora"
+theme = "cleanwhite"
+
+[params]
+  [params.author]
+    name = "Jhutty"
