@@ -12,4 +12,7 @@ theme = "cleanwhite"
 [params]
   [params.author]
     name = "Jhutty"
+    sidebar_about_description = "Philosoph, Autor, Analytiker"
+    sidebar_avatar = "img/avatar.webp"
+
 
