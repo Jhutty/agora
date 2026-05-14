@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Agora</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Agora</description>
+    <title>Posts on Agora</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Agora</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Thu, 14 May 2026 21:52:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erster Beitrag</title>
       <link>http://localhost:1313/post/erster-beitrag/</link>

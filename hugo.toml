@@ -3,6 +3,13 @@ locale = "de"
 title = "Agora"
 theme = "cleanwhite"
 
+[pagination]
+  pagerSize = 5
+
+[outputs]
+  home = ["HTML", "RSS"]
+
 [params]
   [params.author]
     name = "Jhutty"
+
